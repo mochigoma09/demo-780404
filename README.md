@@ -1,2 +1,3 @@
 # demo-780404
-Auto generated demo site for ㈱交換できるくん
+
+AIによって自動生成された ㈱交換できるくん 様向けのデモサイトです。
